@@ -55,8 +55,6 @@ edgeviewer_company_ready/
 │
 └── README.md
 
-yaml
-Copy code
 
 ---
 
@@ -87,10 +85,6 @@ Copy code
 │ Web UI │ (TypeScript)
 └──────────┘
 
-yaml
-Copy code
-
-This structure is **clean, scalable, and interview-ready**.
 
 ---
 
@@ -140,6 +134,4 @@ bash
 Copy code
 npm start
 
-Screenshot:
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a51e654b-796b-48ff-a20f-e01b660a85ce" />
 
