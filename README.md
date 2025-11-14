@@ -139,3 +139,7 @@ npm install
 bash
 Copy code
 npm start
+
+Screenshot:
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a51e654b-796b-48ff-a20f-e01b660a85ce" />
+
